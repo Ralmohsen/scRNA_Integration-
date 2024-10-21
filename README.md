@@ -1,8 +1,8 @@
 # scRNA_Integration- in R
 
 Content:<br />
-Introduction
-SRA
-FASTQ
-CellRanger
-Seurat integration workflow (CCA Integration)
+Introduction<br />
+SRA<br />
+FASTQ<br />
+CellRanger<br />
+Seurat integration workflow (CCA Integration)<br />
