@@ -1,6 +1,6 @@
 # scRNA_Integration- in R
 
-<h1> Content:<br />
+<h2> Content:<br />
 Introduction<br />
 SRA<br />
 FASTQ<br />
